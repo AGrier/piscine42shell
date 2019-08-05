@@ -1,0 +1,5 @@
+Credentials cache: API:BDF959C3-67C7-4A83-B70F-F50053E955CB
+        Principal: agrier@42.FR
+
+  Issued                Expires               Principal
+Jul 31 11:31:58 2019  Aug  7 11:31:52 2019  krbtgt/42.FR@42.FR
